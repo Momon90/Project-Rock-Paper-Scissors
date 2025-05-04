@@ -60,6 +60,3 @@ console.log(result);
 console.log(humanScore);
 console.log(computerScore);
 
-function playGame() {
-}
-
